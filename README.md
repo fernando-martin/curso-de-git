@@ -1,7 +1,7 @@
 # CURSO DE GIT - craftsmanship Toledo
 
 
-### [Ejercicio 0 - Iniciar un proyecto git/git init/git clone/fork](ejercicios/zero/cero.md)
+### [Ejercicio 0-1 - Iniciar un proyecto git/git init/git clone/fork](ejercicios/zero/cero.md)
 
 Cómo empezar una proyecto git, iniciar desde local o clonar un repositorio existente y en nuestro local. También hablaremos de cómo podemos usar extras, como forkear un repositorio con la interfaz de github para vitaminar nuestro workflow.
 
